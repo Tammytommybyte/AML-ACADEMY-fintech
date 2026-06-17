@@ -1,5 +1,7 @@
 # AML ACADEMY Fintech
 
+[📘 Glosario / GLOSSARY](GLOSSARY.md)
+
 **Repositorio educativo completo para aprender Python aplicado a análisis financiero, detección de fraude, AML (Anti-Lavado de Dinero) y compliance.**
 
 ## 📚 Objetivo del Proyecto
@@ -174,6 +176,23 @@ jupyter notebook
 - [Scikit-learn Docs](https://scikit-learn.org/)
 - [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html)
 - [Guía de AML/KYC](https://www.fatf-gafi.org/) (FATF - Financial Action Task Force)
+- [GLOSSARY.md — Glosario de términos clave (ES/EN)](https://github.com/Tammytommybyte/AML-ACADEMY-fintech/blob/main/GLOSSARY.md)
+
+## 📚 Bibliografía y Enlaces Oficiales
+
+- UIF — Unidad de Inteligencia Financiera (México): https://www.gob.mx/uif
+- CNBV — Comisión Nacional Bancaria y de Valores (México): https://www.gob.mx/cnbv
+- SAT — Servicio de Administración Tributaria (México): https://www.sat.gob.mx
+- Banco de México (Banxico): https://www.banxico.org.mx
+- FATF / GAFI — Financial Action Task Force: https://www.fatf-gafi.org
+- FATF Recommendations (AML/CFT recommendations): https://www.fatf-gafi.org/recommendations.html
+- FinCEN — Financial Crimes Enforcement Network (EE. UU.): https://www.fincen.gov
+- Egmont Group (directory of FIUs): https://egmontgroup.org
+- UNODC — United Nations Office on Drugs and Crime: https://www.unodc.org
+- IMF — International Monetary Fund: https://www.imf.org
+- World Bank: https://www.worldbank.org
+- European Banking Authority (EBA): https://www.eba.europa.eu
+- Europol: https://www.europol.europa.eu
 
 ## ⚠️ Nota Importante
 
