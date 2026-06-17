@@ -1,0 +1,9 @@
+name,type,country,status,entity_id
+Juan Pérez,PEP,MX,active,E001
+Maria Gomez,Sanctions,CO,active,E002
+Ali Reza,Sanctions,IR,active,E003
+Nikolai Petrov,PEP,RU,active,E004
+Amina Yusuf,Watchlist,NG,active,E005
+Carlos Duarte,PEP,PE,inactive,E006
+Luisa Fernández,Watchlist,AR,active,E007
+Samir Haddad,Sanctions,LB,active,E008

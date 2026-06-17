@@ -1,0 +1,26 @@
+SUSPICIOUS ACTIVITY REPORT (SAR)
+=================================
+
+Fecha de reporte: {fecha}
+ID de caso: {case_id}
+Cliente: {cliente}
+ID Cliente: {customer_id}
+
+RESUMEN DE ALERTA
+-----------------
+Motivo principal: {motivo}
+Monto involucrado: {monto}
+País asociado: {pais}
+Patrón detectado: {patron}
+
+ANÁLISIS DE COMPLIANCE
+----------------------
+Nivel de riesgo: {nivel_riesgo}
+Acciones tomadas: {acciones}
+Resultado preliminar: {resultado}
+
+ESCALAMIENTO
+------------
+Analista responsable: {analista}
+Fecha de escalamiento: {fecha_escalamiento}
+Comentarios adicionales: {comentarios}
