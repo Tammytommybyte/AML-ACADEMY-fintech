@@ -39,27 +39,30 @@ Este glosario reúne términos clave usados en el repositorio y en el dominio de
 - Model drift (Deriva del modelo): Cambio en el rendimiento del modelo a lo largo del tiempo debido a cambios en el comportamiento o los datos.
 
 Entidades regulatorias y de inteligencia financiera (México):
-- UIF (Unidad de Inteligencia Financiera) — México: Unidad adscrita a la Secretaría de Hacienda y Crédito Público (SHCP) encargada de recibir, analizar y difundir reportes de operaciones sospechosas y prevenir el lavado de dinero.
-- CNBV (Comisión Nacional Bancaria y de Valores) — México: Autoridad supervisora del sistema financiero que supervisa instituciones bancarias, casas de bolsa y su cumplimiento de normas AML.
-- SAT (Servicio de Administración Tributaria) — México: Autoridad fiscal que participa en la prevención y detección de delitos financieros relacionados con evasión y lavado.
-- Banco de México (Banxico): Banco central de México; regula aspectos del sistema de pagos y puede emitir disposiciones relacionadas con riesgos financieros.
+- UIF (Unidad de Inteligencia Financiera) — México: Unidad adscrita a la Secretaría de Hacienda y Crédito Público (SHCP) encargada de recibir, analizar y difundir reportes de operaciones sospechosas y prevenir el lavado de dinero. Sitio oficial: https://www.gob.mx/uif
+- CNBV (Comisión Nacional Bancaria y de Valores) — México: Autoridad supervisora del sistema financiero que supervisa instituciones bancarias, casas de bolsa y su cumplimiento de normas AML. Sitio oficial: https://www.gob.mx/cnbv
+- SAT (Servicio de Administración Tributaria) — México: Autoridad fiscal que participa en la prevención y detección de delitos financieros relacionados con evasión y lavado. Sitio oficial: https://www.sat.gob.mx
+- Banco de México (Banxico): Banco central de México; regula aspectos del sistema de pagos y puede emitir disposiciones relacionadas con riesgos financieros. Sitio oficial: https://www.banxico.org.mx
 
 Entidades regulatorias e internacionales relevantes:
-- FATF / GAFI (Financial Action Task Force / Grupo de Acción Financiera Internacional): Organismo internacional que establece estándares y promueve la implementación efectiva de medidas legales, regulatorias y operativas para combatir el lavado de dinero y financiamiento del terrorismo.
-- FinCEN (Financial Crimes Enforcement Network) — EE. UU.: Unidad de inteligencia financiera de Estados Unidos que recibe y analiza reportes de actividad sospechosa y coordina investigaciones transnacionales.
-- Egmont Group: Red internacional de Unidades de Inteligencia Financiera (FIUs) que facilita el intercambio de información y cooperación entre países.
-- UNODC (United Nations Office on Drugs and Crime): Oficina de la ONU que trabaja en prevención del crimen, incluyendo lavado de dinero y crimen organizado.
-- IMF (International Monetary Fund / Fondo Monetario Internacional): Proporciona asistencia técnica y evalúa vulnerabilidades financieras y cumplimiento AML en países.
-- World Bank (Banco Mundial): Provee asistencia técnica y apoyo para fortalecer marcos regulatorios y lucha contra delitos financieros.
-- European Banking Authority (EBA) — Unión Europea: Regula y supervisa el sector bancario en UE, incluye directrices sobre prevención de lavado de dinero.
-- Europol: Agencia de la UE para la cooperación policial que facilita la lucha contra el crimen organizado y delitos financieros.
+- FATF / GAFI (Financial Action Task Force / Grupo de Acción Financiera Internacional): Organismo internacional que establece estándares y promueve la implementación efectiva de medidas legales, regulatorias y operativas para combatir el lavado de dinero y financiamiento del terrorismo. Sitio oficial: https://www.fatf-gafi.org
+- FinCEN (Financial Crimes Enforcement Network) — EE. UU.: Unidad de inteligencia financiera de Estados Unidos que recibe y analiza reportes de actividad sospechosa y coordina investigaciones transnacionales. Sitio oficial: https://www.fincen.gov
+- Egmont Group: Red internacional de Unidades de Inteligencia Financiera (FIUs) que facilita el intercambio de información y cooperación entre países. Sitio oficial: https://egmontgroup.org
+- UNODC (United Nations Office on Drugs and Crime): Oficina de la ONU que trabaja en prevención del crimen, incluyendo lavado de dinero y crimen organizado. Sitio oficial: https://www.unodc.org
+- IMF (International Monetary Fund / Fondo Monetario Internacional): Proporciona asistencia técnica y evalúa vulnerabilidades financieras y cumplimiento AML en países. Sitio oficial: https://www.imf.org
+- World Bank (Banco Mundial): Provee asistencia técnica y apoyo para fortalecer marcos regulatorios y lucha contra delitos financieros. Sitio oficial: https://www.worldbank.org
+- European Banking Authority (EBA) — Unión Europea: Regula y supervisa el sector bancario en UE, incluye directrices sobre prevención de lavado de dinero. Sitio oficial: https://www.eba.europa.eu
+- Europol: Agencia de la UE para la cooperación policial que facilita la lucha contra el crimen organizado y delitos financieros. Sitio oficial: https://www.europol.europa.eu
+
+Referencias adicionales (documentación y recursos recomendados):
+- FATF Recommendations — recomendaciones internacionales sobre AML/CFT: https://www.fatf-gafi.org/recommendations.html
+- GAFI Mexico country profile / evaluaciones mutuas: https://www.fatf-gafi.org/countries/
+- Egmont Group directory of FIUs (para contacto entre UIFs): https://egmontgroup.org/en/content/egmont-group-directory
 
 Buenas prácticas relacionadas al glosario:
 - Indicar el acrónimo y la forma expandida en ambos idiomas cuando aplique (ej.: KYC — Know Your Customer / Conoce a tu Cliente).
 - Mantener definiciones concisas y actualizarlas cuando cambien regulaciones o prácticas.
 
 Si quieres, puedo:
-- Añadir referencias (enlaces) oficiales para cada entidad regulatoria.
-- Traducir todo el glosario a un archivo separado GLOSSARY_EN.md con solo inglés.
-- Insertar el glosario en el README y añadir el enlace automático.
-
+- Añadir enlaces directos desde el README.md hacia este GLOSSARY.md (recomendado).
+- Crear una versión en inglés GLOSSARY_EN.md con las mismas referencias.
