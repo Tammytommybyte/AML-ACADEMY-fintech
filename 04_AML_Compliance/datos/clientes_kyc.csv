@@ -1,0 +1,61 @@
+customer_id,name,country,birth_date,risk_level,kyc_status,documents_verified
+C001,Amina Yusuf,RU,1995-12-24,Low,Completed,1
+C002,Luisa Fernandez,MX,1996-06-21,Low,Completed,1
+C003,Nikolai Petrov,AR,1975-01-11,High,Completed,1
+C004,Luisa Fernandez,CL,1997-04-05,High,Completed,1
+C005,Samir Hadad,PE,1970-02-23,Low,Completed,0
+C006,Elena Rios,CO,1976-02-03,Low,Completed,0
+C007,Nikolai Petrov,NG,1967-07-01,High,Completed,1
+C008,Lucia Martinez,PE,2002-10-04,Medium,Completed,1
+C009,Nikolai Petrov,CO,1984-05-24,Low,Completed,1
+C010,Samir Hadad,PE,1972-08-29,Medium,Completed,1
+C011,Nikolai Petrov,CL,1977-12-26,Medium,In Review,1
+C012,Luisa Fernandez,CL,1982-07-20,Low,Pending,1
+C013,Ana Lopez,AR,1966-04-04,Low,Completed,1
+C014,Marco Silva,CL,1966-07-13,Medium,Pending,1
+C015,Juan Pérez,US,1971-04-02,Low,Pending,1
+C016,Lucia Martinez,US,1987-06-17,High,Completed,1
+C017,Samir Hadad,NG,1988-01-06,Low,Completed,1
+C018,Samir Hadad,US,1985-08-12,Medium,Pending,1
+C019,Luisa Fernandez,CL,1982-09-03,Low,Pending,1
+C020,Nikolai Petrov,AR,1990-11-03,Medium,Completed,1
+C021,Amina Yusuf,AR,1996-04-20,Low,In Review,1
+C022,Marco Silva,NG,1968-01-13,Low,Pending,1
+C023,Maria Gómez,CO,1987-05-28,High,Completed,1
+C024,Samir Hadad,PE,1969-09-24,High,Completed,0
+C025,Ana Lopez,CO,1967-10-12,Medium,Completed,0
+C026,Maria Gómez,RU,1999-03-30,Low,Completed,1
+C027,Lucia Martinez,US,1969-10-30,Medium,Completed,0
+C028,Marco Silva,PE,1973-10-12,Low,Completed,1
+C029,Andres Ruiz,AR,1984-06-21,Medium,Pending,1
+C030,Marco Silva,MX,1993-03-22,High,Completed,1
+C031,Lucia Martinez,MX,1981-02-17,Medium,Completed,0
+C032,Diego Castro,AR,1995-08-11,Medium,In Review,1
+C033,Nikolai Petrov,PE,2002-05-05,Low,Pending,1
+C034,Diego Castro,AR,2000-12-16,Low,Completed,1
+C035,Maria Gómez,CO,1970-09-15,Medium,Completed,1
+C036,Andres Ruiz,MX,1991-12-25,Medium,Completed,0
+C037,Amina Yusuf,CL,1982-07-07,Medium,Completed,0
+C038,Amina Yusuf,CO,1988-12-21,Medium,Pending,0
+C039,Elena Rios,CL,1982-11-28,Medium,Completed,0
+C040,Marco Silva,RU,1976-10-19,Medium,Completed,1
+C041,Andres Ruiz,US,2004-11-01,Medium,Completed,1
+C042,Samir Hadad,US,1998-12-22,Medium,Pending,1
+C043,Maria Gómez,MX,1980-07-07,High,In Review,1
+C044,Marco Silva,CO,2004-10-24,Medium,In Review,1
+C045,Juan Pérez,CO,1966-08-07,Low,Completed,1
+C046,Nikolai Petrov,CL,2000-01-22,Medium,In Review,1
+C047,Juan Pérez,MX,1999-09-14,Medium,Completed,1
+C048,Ana Lopez,MX,1989-10-14,Low,Completed,1
+C049,Lucia Martinez,NG,1996-06-17,Low,Completed,1
+C050,Marco Silva,US,1980-10-12,Low,Completed,1
+C051,Andres Ruiz,CO,1991-05-28,Low,Completed,1
+C052,Elena Rios,MX,2000-12-19,Low,Pending,0
+C053,Maria Gómez,MX,1970-09-08,Low,Completed,1
+C054,Marco Silva,PE,1978-02-12,Low,Completed,1
+C055,Luisa Fernandez,CO,1968-06-05,Low,Completed,1
+C056,Samir Hadad,US,2005-04-07,High,Completed,1
+C057,Diego Castro,CL,2003-12-25,Medium,Completed,1
+C058,Samir Hadad,CO,1967-06-04,Low,Completed,0
+C059,Nikolai Petrov,CL,1968-07-09,Low,Completed,0
+C060,Andres Ruiz,CL,1998-04-13,Medium,Completed,1
